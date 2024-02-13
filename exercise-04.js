@@ -1,6 +1,6 @@
 // Write a JavaScript program to find a specified number in an array.
 
-const nums = [341, -5, 27, 9, 10, 62, 102]
+const nums = [341, -5, 27, 9, 10, 62, 102, 1]
 
 // const arrayOfNumbers = Array.from({ length: 100000 }, () =>
 //   Math.floor(Math.random() * 1000)
